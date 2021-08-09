@@ -8,3 +8,10 @@
 * CSS3
 * JavaScript
 * jQuery
+
+**Things that I'll focus later on:**
+* Vue JS
+* Express.js
+* Bootstrap
+
+**If you like any of my projects, fork it, and don't forget to star the repo!:star:**
